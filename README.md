@@ -21,10 +21,10 @@ Con este lenguaje de programación del lado del cliente (no en el servidor) pode
 
 A partir de los siguientes arrays:
 
-const exampleArray = [10, 4, 4, 4, 4, 100, 35, 31, 23, 443, 221, 342, 10, 12, 42];
+const exampleArray = [10, 4, 4, 4, 4, 100, 35, 31, 23, 443, 221, 342, 10, 12, 42]; <br>
 const shit = ["function", null, function() {}, () => {}, 10, 100, {}];
 
-const array1 = [10, 4, 100, 35, 31, 23, 443, 221, 342, 10, 12, 42];
+const array1 = [10, 4, 100, 35, 31, 23, 443, 221, 342, 10, 12, 42]; <br>
 const array2 = [[10, 4, "100", 35, "31", "23", 443, "221", "342", 10, 12, 42]]; 
 
 Realiza los siguientes ejercicios:
